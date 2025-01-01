@@ -59,7 +59,7 @@ int main(int argc, char** argv) {
     Graph graph;
     std::vector<Point> points;
 
-    generatePointsWithHole(graph, 20, 5);
+    generatePointsWithHole(graph, 10, 5);
 
     int numDomains = 16;
 
